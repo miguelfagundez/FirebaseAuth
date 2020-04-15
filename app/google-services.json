@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879041766030",
+    "firebase_url": "https://criptoproject-7b73a.firebaseio.com",
+    "project_id": "criptoproject-7b73a",
+    "storage_bucket": "criptoproject-7b73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879041766030:android:bed6c8c6193f94e635dfdf",
+        "android_client_info": {
+          "package_name": "com.devproject.miguelfagundez.authfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879041766030-vf61jrcdjoekkjs3al7b3qfo0o7u7ghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZaOvJapiqBtZF3A-7NKjJ8M-VVMRWUxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879041766030-vf61jrcdjoekkjs3al7b3qfo0o7u7ghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

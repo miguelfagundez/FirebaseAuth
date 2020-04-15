@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AuthFirebaseApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="stay_sign_in">Stay sign in</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_username">Confirm Email</string>
+    <string name="fields_empty">Fields cannot be empty</string>
+    <string name="error_password_match">Passwords do not match!</string>
+    <string name="error_email_match">Emails do not match!</string>
+    <string name="check_email_verification">Please check email for verification</string>
+    <string name="logout">Logout</string>
+    <string name="logout_message">Session is closed..</string>
+    <string name="register_user_data">Registering user data..</string>
+    <string name="check_user_data">Checking user data..</string>
+</resources>
