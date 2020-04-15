@@ -28,6 +28,7 @@ class LoginFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         tvRegister.setOnClickListener {
+            // Calling register fragment (Animantion)
             childFragmentManager.beginTransaction()
                 .setCustomAnimations(
                     R.anim.slide_up,

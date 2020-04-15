@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
         // Connecting with Firebase to logout user data
         //************************************************************
         btnLogout.setOnClickListener {
+            // Logout from Firebase session
             FirebaseAuth.getInstance().signOut()
             Toast.makeText(this, getString(R.string.logout_message), Toast.LENGTH_SHORT).show()
             openInitialActivity()

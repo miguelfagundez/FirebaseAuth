@@ -19,7 +19,6 @@ import com.google.firebase.auth.FirebaseAuth
 class InitialActivity : AppCompatActivity() {
 
     private val loginFragment: LoginFragment = LoginFragment()
-    private val homeActivity: MainActivity = MainActivity()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -39,6 +38,7 @@ class InitialActivity : AppCompatActivity() {
     }
 
     private fun openLoginFragment() {
+        // Calling login fragment (Animantion)
         supportFragmentManager
             .beginTransaction()
             .setCustomAnimations(
